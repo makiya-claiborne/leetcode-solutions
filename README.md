@@ -50,9 +50,9 @@ Each problem folder may include:
 
 ## Progress
 
-| # | Problem | Difficulty | Topics | Java | Python |
+| # | Problem | Difficulty | Completed | Java | Python |
 |---:|---|---|---|:---:|:---:|
-| — | Solutions coming soon | — | — | — | — |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Sep. 28, 2026 | [Solution](./easy/0001-two-sum/TwoSum.java) | — |
 
 > This table will be updated as new solutions are added.
 
