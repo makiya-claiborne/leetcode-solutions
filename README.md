@@ -53,6 +53,7 @@ Each problem folder may include:
 | # | Problem | Difficulty | Completed | Java | Python |
 |---:|---|---|---|:---:|:---:|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Sep. 28, 2026 | [Solution](./easy/0001-two-sum/TwoSum.java) | — |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Sep. 28, 2026 | [Solution](./easy/0009-palindrome-number/PalindromeNumber.java) | — |
 
 > This table will be updated as new solutions are added.
 > Completion date indicates when LeetCode solution was originally submitted.
