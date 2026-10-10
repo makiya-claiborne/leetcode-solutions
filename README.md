@@ -55,6 +55,7 @@ Each problem folder may include:
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Sep. 28, 2026 | [Solution](./easy/0001-two-sum/TwoSum.java) | — |
 
 > This table will be updated as new solutions are added.
+> Completion date indicates when LeetCode solution was originally submitted.
 
 <!-- Example row:
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array, Hash Table | [Solution](./easy/0001-two-sum/TwoSum.java) | [Solution](./easy/0001-two-sum/two_sum.py) |
