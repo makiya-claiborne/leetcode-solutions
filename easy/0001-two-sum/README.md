@@ -19,6 +19,9 @@ itself and avoids checking the same pair twice.
 - **Space Complexity:** O(1), because the solution uses only a constant amount
   of additional memory.
 
-## Solution
+## Solutions
 
-- [Java](./TwoSum.java)
+| Language | Solution | Completed |
+|---|---|---|
+| Java | [TwoSum.java](./TwoSum.java) | September 28, 2026 |
+| Python | - | - |
