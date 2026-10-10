@@ -5,6 +5,7 @@
  *
  * Time Complexity: O(n^2)
  * Space Complexity: O(1)
+ * Completed: September 28, 2026
  */
 class Solution {
     public int[] twoSum(int[] nums, int target) {
