@@ -54,6 +54,7 @@ Each problem folder may include:
 |---:|---|---|---|:---:|:---:|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Sep. 28, 2026 | [Solution](./easy/0001-two-sum/TwoSum.java) | — |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Sep. 28, 2026 | [Solution](./easy/0009-palindrome-number/PalindromeNumber.java) | — |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | Oct. 13, 2026 | [Solution](./easy/0058-length-of-last-word/LengthOfLastWord.java) | — |
 
 > This table will be updated as new solutions are added.
 > Completion date indicates when LeetCode solution was originally submitted.
